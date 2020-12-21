@@ -1,5 +1,12 @@
-## Sonoro
+---
+layout: default
+---
+# Silente Sonoro
+## segunda temporada, 0-DC
 
-manos a la obra
+---
 
-_stay tune_
+Oaxaca diciembre 2020
+
+> archivo : [Silente en Tuxfamily](https://silente.tuxfamily.org)
+
