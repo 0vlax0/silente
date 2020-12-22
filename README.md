@@ -1,4 +1,7 @@
 ## website
 ### personal
 
-or - algo asi
+or - _algo asi_
+
+>> reference : dossier, portfolio, gallery.
+
