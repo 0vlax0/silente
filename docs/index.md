@@ -1,5 +1,5 @@
 ---
-layout : silente
+layout : default
 ---
 # Silente Sonoro
 ## segunda temporada, 0-DC
