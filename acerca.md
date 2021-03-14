@@ -1,19 +1,21 @@
 ---
 layout : silente
+published : true
 ---
-# Esta es una factoría de artesanías sonoras para analizar el entorno que el Ser Humano ha creado en torno a sus distintas percepciones del silencio. 
 
-> Comparte tu silencio. Bienvenida tu escucha atenta.
+# Esta es una factoría de artesanías sonoras para analizar el entorno que el Ser Humano ha creado en torno a sus distintas percepciones del silencio. 
 
 ## Es también un conjunto de acciones multidisplinarias basadas en la valoración, educación y difusión de nuestro imaginario acústico.
 
-> Aquí, la técnica es narrativa acústica. Mi práctica es la fonografía con medios analógicos y digitales. 
-
 ![Bienvenida tu escucha atenta](/silente/img/earlogo-dark-01.jpg)
 
-Silente Sonoro es Cultura Libre Copyleft. Se distribuye con licencia CC-BY-SA.
-Puedes __Compartir__ y __Adaptar__ los contenidos de este proyecto _Reconociendo_ a [__vlax__](https://vlax.dyne.org) como autor. [^1]
+Silente Sonoro es Cultura Libre Copyleft. Se distribuye con [licencia CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.es). | Puedes __Compartir__ y __Adaptar__ los contenidos de este proyecto __Reconociendo__ a [__vlax__](https://vlax.dyne.org) como autor.
+------------ | -------------
+Donde sea, comparte todos tus silencios. | Aquí se practica la fonografía con medios analógicos y digitales.
 
+---
+
+{{ site.description}}
 
 ### Historial
 
@@ -28,6 +30,3 @@ _Primera Temporada_
 
 * __Educación__
 
-
-[^1]
-Consultar [licencia CC-BY-SA](LICENCE) o visitar  https://creativecommons.org/licenses/by-sa/4.0/deed.es
