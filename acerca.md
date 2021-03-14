@@ -13,15 +13,14 @@ Silente Sonoro es Cultura Libre Copyleft. Se distribuye con [licencia CC-BY-SA](
 ------------ | -------------
 Donde sea, comparte todos tus silencios. | Aquí se practica la fonografía con medios analógicos y digitales.
 
----
 
-{{ site.description}}
+---
 
 ### Historial
 
 * __Sitio Web__
   * _2008 nacimiento_. El primer sitio web se hospedó en la [comuna digital Tuxfamily](https://tuxfamily.org) y se construyó con [SPIP](https://spip.net) y base de datos MySQL. Mostraba un mapa interactivo con geoposicionamiento de los archivos fonográficos personales. En la WayBack Machine se pueden consultar [capturas de 2012 a 2018](https://web.archive.org/web/*/http://silente.tuxfamily.org/).
-  * _2020 reconstrucción_. Actualización de SPIP y rediseño visual. Disponible en modo consulta http://silente.tuxfamily.org 
+  * _2020 reconstrucción_. Actualización de SPIP y rediseño visual. Disponible en modo consulta [http://silente.tuxfamily.org](http://silente.tuxfamily.org)
 
 * __Fanzine Radiofónico__
 _Primera Temporada_

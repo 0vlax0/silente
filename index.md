@@ -7,3 +7,4 @@ published : true
 
 ![Suena mi cinta](/silente/img/ss_tapelogo.png)
 
+{{ site.description}}
