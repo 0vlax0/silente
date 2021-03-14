@@ -1,12 +1,12 @@
 ---
-layout : default
+layout : silente
+published : true
 ---
 # Silente Sonoro
-## segunda temporada, 0-DC
 
 ---
 
-Oaxaca diciembre 2020
+## Suena tu imaginario acústico y ponle frecuencias en sintonía galáctica.
 
-> archivo : [Silente en Tuxfamily](https://silente.tuxfamily.org)
+![Suena mi cinta](/silente/img/ss_tapelogo.png)
 

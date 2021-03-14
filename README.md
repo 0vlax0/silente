@@ -1,9 +1,7 @@
-# forky template
+# Portafolio de proyecto *Silente Sonoro*
 
-## website
-### personal
+Sitio web adaptado del tema *Midnight* para Jekyll.
 
-or - _algo asi_
-
->> reference : dossier, portfolio, gallery.
+* Referencia de uso : dossier, portfolio, gallery
+* Licencia CC-BY-SA
 
