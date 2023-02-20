@@ -9,8 +9,11 @@ published : true
 
 ![Bienvenida tu escucha atenta](/silente/img/earlogo-dark-01.jpg)
 
-**Silente Sonoro es Cultura Libre Copyleft. Se distribuye con [licencia CC-BY-SA](LICENCE.md).** | Puedes __Compartir__ y __Adaptar__ los contenidos de este proyecto __Reconociendo__ a [__vlax__](https://vlax.dyne.org) como autor.
------------- | -------------
+# (ɔ)
+
+|**Cultura Libre Copyleft**|__Compartir__ y __Adaptar__|
+|-------------------------|---------------------------|
+|Silente Sonoro se distribuye con [licencia CC-BY-SA](LICENCE.md).|Puedes __Compartir__ y __Adaptar__ los contenidos de este proyecto __Reconociendo__ a [__vlax__](https://vlax.dyne.org) como autor.|
 
 -----
 
