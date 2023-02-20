@@ -12,7 +12,7 @@ published : true
 **Silente Sonoro es Cultura Libre Copyleft. Se distribuye con [licencia CC-BY-SA](LICENCE.md).** | Puedes __Compartir__ y __Adaptar__ los contenidos de este proyecto __Reconociendo__ a [__vlax__](https://vlax.dyne.org) como autor.
 ------------ | -------------
 
----
+-----
 
 ### Historial
 
@@ -27,10 +27,10 @@ _Primera Temporada_
 
 * __Educación__
   * Talleres de paisaje sonoro
-    * Biblioteca Henestrosa, Oaxaca Mexico, 2013-2016
-	* Project Luz, Ciudad Nezahualcoyotl, Mexico 2013
+  * Biblioteca Henestrosa, Oaxaca Mexico, 2013-2016
+  * Project Luz, Ciudad Nezahualcoyotl, Mexico 2013
 
 * __Exposiciones y conciertos__
- * IV Muestra de Cine y Radio Comunitaria en Mesoamérica, Oaxaca 2018.
- * _Incognita Prosaica_, Museo de los pintores, Oaxaca 2016
- * _Microfábulas Sonoras_ en Tianguis CACAO, Museo Universitario del Chopo, Ciudad de México 2013.
+  * IV Muestra de Cine y Radio Comunitaria en Mesoamérica, Oaxaca 2018.
+  * _Incognita Prosaica_, Museo de los pintores, Oaxaca 2016
+  * _Microfábulas Sonoras_ en Tianguis CACAO, Museo Universitario del Chopo, Ciudad de México 2013.
