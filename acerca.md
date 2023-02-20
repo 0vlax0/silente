@@ -27,8 +27,8 @@ _Primera Temporada_
 
 * __Educación__
   * Talleres de paisaje sonoro
-  * Biblioteca Henestrosa, Oaxaca Mexico, 2013-2016
-  * Project Luz, Ciudad Nezahualcoyotl, Mexico 2013
+    * Biblioteca Henestrosa, Oaxaca Mexico, 2013-2016
+    * Project Luz, Ciudad Nezahualcoyotl, Mexico 2013
 
 * __Exposiciones y conciertos__
   * IV Muestra de Cine y Radio Comunitaria en Mesoamérica, Oaxaca 2018.
